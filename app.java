@@ -10,3 +10,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   :wq
   }
+i have added some new data 
